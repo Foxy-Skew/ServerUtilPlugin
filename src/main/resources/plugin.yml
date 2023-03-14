@@ -1,0 +1,8 @@
+name: Serverutils
+version: '${project.version}'
+main: serverutils.serverutils.Serverutils
+api-version: 1.19
+commands:
+  item:
+    description: stuff
+    usage: /
